@@ -1,8 +1,5 @@
-<h3 align="right">💬 Contact Me</h4>
-
-[<img align="right" src="https://img.shields.io/badge/Gmail-seashell?&style=for-the-badge&logo=gmail&logoColor=red"/>](mailto:hellerdejanuar@gmail.com)
-[<img align="right" src="https://img.shields.io/badge/Linkedin-aliceblue?&style=for-the-badge&logo=linkedin&logoColor=blue"/>](https://www.linkedin.com/in/mauricio-heller-47798a1ba/)
-
+<h1 align="center">Hi 👋, I'm Heller</h1>
+<h3 align="center">I dream of building bridges between human talent and computer power</h3>
 
 <table width=100%>
 <tr>
@@ -67,7 +64,7 @@
 <td>
 
 ## 📄 Stats
-
+   
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hellerdejanuar&theme=ayu-mirage&show_icons=true&hide_border=true" />
  <br>
@@ -75,7 +72,13 @@
  <br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellerdejanuar&theme=ayu-mirage&layout=compact&hide_border=true&langs_count=4" />
 </p>
-     
+   
+<h3>💬 Contact Me</h4>
+
+[<img src="https://img.shields.io/badge/Gmail-seashell?&style=for-the-badge&logo=gmail&logoColor=red"/>](mailto:hellerdejanuar@gmail.com)
+[<img src="https://img.shields.io/badge/Linkedin-aliceblue?&style=for-the-badge&logo=linkedin&logoColor=blue"/>](https://www.linkedin.com/in/mauricio-heller-47798a1ba/)
+   
+
   </td>
  </tr>
 </table>
