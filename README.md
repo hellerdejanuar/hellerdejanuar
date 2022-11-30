@@ -24,7 +24,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-orangered?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white)&nbsp;
+      
 ![Ionic](https://img.shields.io/badge/Ionic-dodgerblue?style=flat&logo=ionic&logoColor=ghostwhite)&nbsp;
+![React](https://img.shields.io/badge/React-ghostwhite?style=flat&logo=react&logoColor=dodgerblue)&nbsp;
+![Rails](https://img.shields.io/badge/Rails-darkred?style=flat&logo=ruby&logoColor=ghostwhite)&nbsp;
      
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Jinja](https://img.shields.io/badge/Jinja-232F3E?style=flat&logo=jinja&logoColor=red)&nbsp;
@@ -44,7 +47,6 @@
 
 #### 🌱 In line to learn:
 
-![React](https://img.shields.io/badge/React-ghostwhite?style=flat&logo=react&logoColor=dodgerblue)&nbsp;
 ![C++](https://img.shields.io/badge/c++-blue?style=flat&logo=c%2B%2B&logoColor=lightblue)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-232F3E?style=flat&logo=rust&logoColor=darkorange)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-ghostwhite?style=flat&logo=amazon-aws&logoColor=orange)&nbsp;
