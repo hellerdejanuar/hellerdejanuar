@@ -2,7 +2,7 @@
 <h3 align="center">🌉 I dream of building bridges between human talent and computer power 🧑🏻‍💻✨🦾</h3>
 <h3 align="center"></h3>
     
-## 🛠✨ Skills
+## 🛠✨ Web Dev Skills
 
 #### Backend
 
@@ -37,6 +37,7 @@
 ![Affinity](https://img.shields.io/badge/Affinity-gray?style=flat&logo=affinity&logoColor=dodgerblue)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-midnightblue?style=flat&logo=adobephotoshop&logoColor=cornflowerblue)&nbsp;
      
+![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=flat&logo=boostrap&logoColor=white)&nbsp;
 ![AfterEffects](https://img.shields.io/badge/After_Effects-indigo?style=flat&logo=adobeaftereffects&logoColor=plum)&nbsp;
 ![Sketchup](https://img.shields.io/badge/SketchUp-midnightblue?style=flat&logo=sketchup&logoColor=dodgerblue)&nbsp;
 
