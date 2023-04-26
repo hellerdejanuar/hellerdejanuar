@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Heller, developer and musician</h1>
 <h3 align="center">🌉 I dream of building bridges between human talent and computer power 🧑🏻‍💻✨🦾</h3>
 <h3 align="center"></h3>
-<table width=100%>
-<tr>
-   <td width=55%>
     
 ## 🛠✨ Skills
 
@@ -61,26 +58,9 @@
 ![Shell Script](https://img.shields.io/badge/Bash-232F3E?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-581845?style=flat&logo=github&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)&nbsp;
-</td>
-
-<td>
-
-## 📄 Stats
-   
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hellerdejanuar&theme=ayu-mirage&show_icons=true&hide_border=true" />
- <br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hellerdejanuar&theme=ayu-mirage&hide_border=true" />
- <br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellerdejanuar&theme=ayu-mirage&layout=compact&hide_border=true&langs_count=4" />
-</p>
    
 <h3>💬 Contact Me</h3>
 
 [<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:hellerdejanuar@gmail.com)
 [<img src="https://img.shields.io/badge/Linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=ghostwhite"/>](https://www.linkedin.com/in/mauricio-heller-47798a1ba/)
    
-
-  </td>
- </tr>
-</table>
