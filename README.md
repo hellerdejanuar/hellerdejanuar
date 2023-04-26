@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Heller</h1>
+<h1 align="center">Hi, I'm Heller, developer and musician</h1>
 <h3 align="center">🌉 I dream of building bridges between human talent and computer power 🧑🏻‍💻✨🦾</h3>
 <h3 align="center"></h3>
 <table width=100%>
