@@ -47,7 +47,6 @@
 
 ![C++](https://img.shields.io/badge/c++-blue?style=flat&logo=c%2B%2B&logoColor=lightblue)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-232F3E?style=flat&logo=rust&logoColor=darkorange)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-ghostwhite?style=flat&logo=amazon-aws&logoColor=orange)&nbsp;
 
 
 #### Tools
@@ -56,10 +55,12 @@
 ![Notion](https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=232323)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-purple?style=flat&logo=slack&logoColor=yellow)&nbsp;
 
+
+![AWS](https://img.shields.io/badge/AWS-ghostwhite?style=flat&logo=amazon-aws&logoColor=orange)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Bash-232F3E?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-581845?style=flat&logo=github&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)&nbsp;
-   
+
 <h3>💬 Contact Me</h3>
 
 [<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:hellerdejanuar@gmail.com)
