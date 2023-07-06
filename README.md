@@ -50,12 +50,6 @@
 
 
 #### Tools
-
-![Trello](https://img.shields.io/badge/Trello-blue?style=flat&logo=trello&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=232323)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-purple?style=flat&logo=slack&logoColor=yellow)&nbsp;
-
-
 ![AWS](https://img.shields.io/badge/AWS-ghostwhite?style=flat&logo=amazon-aws&logoColor=orange)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Bash-232F3E?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-581845?style=flat&logo=github&logoColor=white)&nbsp;
